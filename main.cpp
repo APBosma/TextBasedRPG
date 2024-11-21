@@ -126,6 +126,12 @@ int main() {
 
 // The REALLLL functions
 
+// DELETE WHEN DONE SO THIS IS NOT IN LATER THINGIES
+
+bool DoIEatToes() {
+  
+}
+
 // Do you want to continue?
 bool Continue() {
   char choice;
